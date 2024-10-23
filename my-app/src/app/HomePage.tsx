@@ -140,7 +140,7 @@ const PriceChart: React.FC = () => {
       </div>
       <span className="text-xl font-bold text-black">{value}</span>
     </div>
-  );
+  ); //done
 
   return (
     <div className="w-full max-w-6xl mx-auto p-4">
